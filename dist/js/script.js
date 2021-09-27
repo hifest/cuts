@@ -14,4 +14,3 @@ const burger = document.querySelector('.burger-bar')
 burger.addEventListener('click',()=>{
    document.querySelector('.burger').classList.toggle('active')
 });
-
